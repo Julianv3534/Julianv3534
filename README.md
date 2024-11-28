@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python, Java, Javascript, MySQL & Cybersecurity<br>🌱 I’m currently learning ReactJS, SpringBoot & Cybersecurity<br>⚡ Currently, i am at my second year of software engineering
+🔭 I’m currently working on Python, Java, Javascript, MySQL & Cybersecurity<br>🌱 I’m currently learning ReactJS, SpringBoot & Cybersecurity<br>⚡ Currently, i am at my third year of software engineering
 
 
 ## 🌐 Socials:
